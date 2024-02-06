@@ -6,8 +6,8 @@ Recurrence relations can vary greatly in complexity and form depending on the sp
 
 There are several methods to solve recurrence relations, depending on their complexity and form. Here are some common techniques:
 
-Direct Substitution
-Recursive Tree Method
+Direct Substitution</br>
+Recursive Tree Method</br>
 Master Theorem
 
 
